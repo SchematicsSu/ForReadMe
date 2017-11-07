@@ -1,7 +1,7 @@
 # Docker for IBM Cloud
 
 _Overview of Docker for IBM Cloud_
-![Docker for IBM Cloud Overview](d4ic-ov.png)
+![Docker for IBM Cloud Overview](d4ic-ov.png?raw=true)
 
 With Docker for IBM Cloud's integration with [IBM Cloud Schematics](https://console.bluemix.net/docs/services/schematics/index.html#gettingstarted) templates, you can:
 * Quickly [create an environment](#creating_your_swarm_environment) that simplifies infrastructure reuse
